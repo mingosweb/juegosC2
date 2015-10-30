@@ -1,6 +1,6 @@
 ﻿{
-	"name": "juego1",
-	"short_name": "juego1",
+	"name": "bombardeo-vocal",
+	"short_name": "bombardeo-vocal",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",

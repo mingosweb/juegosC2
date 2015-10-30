@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1444172322
+#1446243115
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -14,6 +14,13 @@ images/progressbar-sheet1.png
 images/progressbar-sheet2.png
 images/buttom-sheet0.png
 images/progress-sheet0.png
+images/logo-sheet0.png
+images/tile.png
+images/letraa-sheet0.png
+images/tiledbackground.png
+images/logoload-sheet0.png
+images/fondoconf.png
+images/btnconf-sheet0.png
 icon-16.png
 icon-32.png
 icon-114.png
