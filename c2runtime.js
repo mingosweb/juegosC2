@@ -19388,7 +19388,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.acts.SetVisible,
 	cr.plugins_.AJAX.prototype.acts.Request,
 	cr.plugins_.AJAX.prototype.cnds.OnError,
-	cr.plugins_.AJAX.prototype.cnds.OnComplete,
-	cr.plugins_.AJAX.prototype.exps.LastData
+	cr.plugins_.AJAX.prototype.cnds.OnComplete
 ];};
 
